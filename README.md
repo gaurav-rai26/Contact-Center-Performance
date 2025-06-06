@@ -1,5 +1,5 @@
 # Contact-Center-Performance
-This project analyzes contact center performance using SQL.  
+This project analyzes contact center performance using SQL (Joins, Window Functions and CTE used).  
 
 ## Key Highlights: 
 
